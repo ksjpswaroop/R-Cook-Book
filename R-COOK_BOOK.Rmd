@@ -1,0 +1,44 @@
+---
+title: "R Cook Book"
+author: "Swaroop Kallakuri"
+date: "October 11, 2015"
+output: html_document
+---
+
+*This is a document giving details of all the essential things you need to know about R for statistial programming.*
+
+#1 Basics
+
+##1.1 Variables and playing with Variables
+
+###1.1.1 Setting up variables
+
+
+##2 Vectors
+
+##3 Computing basic Statistics
+
+##4 Sequences
+
+##5 operator Precedence
+
+##6 Functions
+
+##7 R Scripts and Markdown
+
+##8 Common Errors
+
+#Input and Output
+
+##Capturing Data from Keyboard
+
+##Output to a file
+
+## Listing Files
+
+##Reading Files
+
+##*Cannot Open Files*
+
+
+
