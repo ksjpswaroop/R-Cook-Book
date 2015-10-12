@@ -8,8 +8,21 @@ output: html_document
 *This is a document giving details of all the essential things you need to know about R for statistial programming.*
 
 #1 Basics
+This Chapter **DOES NOT** explain about how to download, where to download and how to install, there are many videos, blogs and other material covering the topic and yes, it would be out dated sometimes, so I am not covering it here. We will be looking at the Subject and I expect that you have R or RStudio to use the material in here.
 
-##1.1 Variables and playing with Variables
+
+
+##1.1 Display,Variables and playing with Variables
+We will start with simple command line usage of R console by using it as a calculator. We have the mathematical variables like pi and inf (Stands for Infinity). let's try some commands at the console and check the output.
+```{r}
+pi
+sqrt(4)
+1+2
+345678 * 876543
+matrix(c(1,2,3,4),2,2)
+```
+In the above examples we have not asked to print the output but R assumes and implicitly calls the print function.
+
 
 ###1.1.1 Setting up variables
 
